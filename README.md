@@ -1,6 +1,11 @@
 ## Hello, I'm yjkdev21 👋
 💻 Backend Developer | Java & Spring
 
+협업과 안정성을 중시하는 신입 백엔드 개발자입니다.
+
+### [포트폴리오 사이트 바로가기→](https://yjkdev21.github.io/)
+
+---
 
 ### Languages and Tools:
 
