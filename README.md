@@ -7,26 +7,12 @@
 Java/Spring 기반의 안정적인 서비스 개발을 지향합니다.
 
 ### [🔗포트폴리오 사이트](https://yjkdev21.github.io/)
+
 <br/>
-</div>
-
   
-<div align="center">
-  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yjkdev21&show_icons=true&hide_border=true" alt="GitHub Stats" width="400"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=yjkdev21&theme=meta-light&hide_border=true" alt="GitHub Streak" width="400"/>
-    </td>
-  </tr>
-</table>
-
+<img src="https://github-readme-stats.vercel.app/api?username=yjkdev21&show_icons=true" alt="GitHub Stats" width="400"/>
 
 </div>
-
 
 ## Tech Stack
 
@@ -72,12 +58,11 @@ Java/Spring 기반의 안정적인 서비스 개발을 지향합니다.
 
 </div>
 
-
 ## Contact
 
 <div align="center">
 
-  <br/>
+<br/>
   
 [![Email](https://img.shields.io/badge/yjkdev21@gmail.com-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yjkdev21@gmail.com)
 
