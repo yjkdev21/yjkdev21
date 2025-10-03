@@ -1,22 +1,21 @@
-# 신입 백엔드 개발자 yjkdev21 입니다 👋
+# 신입 개발자 yjkdev21 입니다 👋
 
 <div align="center">
   
-**💻 Backend Developer | Java & Spring**
+**💻 Full Stack Developer | Java & Spring & React**
 
-Java/Spring 기반의 안정적인 서비스 개발을 지향합니다.
+실무 경험을 바탕으로 견고한 백엔드 시스템을 설계하고 구현합니다. </br>
+협업과 코드 품질을 중요시하며, 끊임없이 배우고 성장하는 신입 개발자입니다.
 
-### [🔗포트폴리오 사이트](https://yjkdev21.github.io/)
-
-<br/>
+### [🔗포트폴리오 사이트 바로가기 →](https://yjkdev21.github.io/)
   
-<img src="https://github-readme-stats.vercel.app/api?username=yjkdev21&show_icons=true" alt="GitHub Stats" width="400"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=yjkdev21&show_icons=true" alt="GitHub Stats" width="400"/> -->
 
 </div>
 
 ## Tech Stack
 
-<div align=center>
+<div align="center">
   
 ### 🖥️ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,9 +43,9 @@ Java/Spring 기반의 안정적인 서비스 개발을 지향합니다.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
 </div>
 
 
@@ -63,7 +62,12 @@ Java/Spring 기반의 안정적인 서비스 개발을 지향합니다.
 <div align="center">
 
 <br/>
-  
-[![Email](https://img.shields.io/badge/yjkdev21@gmail.com-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yjkdev21@gmail.com)
+
+| 📧 Email | yjkdev21@gmail.com |
+|:---:|:---|
+
+</br>
+
+[![Email](https://img.shields.io/badge/yjkdev21@gmail.com-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yjkdev21@gmail.com) 
 
 </div>
